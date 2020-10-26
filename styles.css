@@ -1,0 +1,68 @@
+
+body{
+  background-color: lightgray;
+  margin: 4px 2px;
+  border: none;
+  padding: 15px 20px;
+  text-align: center;
+  cursor: pointer;
+  position: center;
+}
+button {
+  background-color: lightBlue;
+  margin: 4px 2px;
+  border: none;
+  padding: 15px 20px;
+  text-align: center;
+  cursor: pointer;
+  position: center;
+}
+.invisible {
+visibility : hidden;
+}
+
+.red{
+  width:100px;
+  height:100px;
+  background-color:red;
+}
+.orange{
+  width:100px;
+  height:100px;
+  background-color:orange;
+}
+.yellow{
+  width:100px;
+  height:100px;
+  background-color:yellow;
+}
+.green{
+  width:100px;
+  height:100px;
+  background-color:green;
+}
+.lightBlue{
+  width:100px;
+  height:100px;
+  background-color:lightBlue;
+}
+.blue{
+  width:100px;
+  height:100px;
+  background-color:blue;
+}
+.white{
+  width:100px;
+  height:100px;
+  background-color:white;
+}
+.gray{
+  width:100px;
+  height:100px;
+  background-color:gray;
+}
+.pink{
+  width:100px;
+  height:100px;
+  background-color:pink;
+}
